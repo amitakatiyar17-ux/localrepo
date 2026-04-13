@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Packers.com"
+      },
+      "author": null,
+      "title": "Game recap: 5 takeaways from Packers’ loss to Ravens - Green Bay Packers – packers.com",
+      "description": "Baltimore was in control the whole way",
+      "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-loss-to-ravens-week-17-2025",
+      "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/packers/orv0t7ujjasvm6uzlzk8",
+      "publishedAt": "2025-12-28T06:23:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Suntimes.com"
+      },
+      "author": "Georgia Nicols",
+      "title": "Horoscope for Sunday, December 28, 2025 - Chicago Sun-Times",
+      "description": null,
+      "url": "https://chicago.suntimes.com/horoscopes/2025/12/28/horoscopes-today-sunday-december-28-2025",
+      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
+      "publishedAt": "2025-12-28T06:01:00Z",
+      "content": "Moon Alert\nAvoid shopping (except for food or gas) and big decisions after 8 p.m. The moon is in Aries.\nAries (March 21-April 19)\nYou yearn to travel and do anything you can to seek adventure..."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Nik Martin",
+      "title": "EU backs Somalia after Israel recognizes Somaliland - DW",
+      "description": "Israel’s support for Somaliland has triggered sharp pushback across Africa, the Middle East and beyond, with the EU urging calm and Somalia vowing to defend its sovereignty.",
+      "url": "https://www.dw.com/en/eu-backs-somalia-after-israel-recognizes-somaliland/a-75318108",
+      "urlToImage": "https://static.dw.com/image/64796602_6.jpg",
+      "publishedAt": "2025-12-28T04:56:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Gas leak outside Los Angeles shuts down major highway, nearby residents told to shelter-in-place - ABC News",
+      "description": null,
+      "url": "https://abcnews.go.com/US/gas-leak-los-angeles-shuts-major-highway-nearby/story?id=128727653",
+      "urlToImage": null,
+      "publishedAt": "2025-12-28T04:39:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Fernando Cervantes Jr.",
+      "title": "Powerball winning numbers for Saturday, Dec. 27; $21.1 million jackpot - USA Today",
+      "description": "Saturday's Powerball jackpot was $21.1 million after a ticket holder in Arkansas won more than $1.8 billion on Christmas Eve.",
+      "url": "https://www.usatoday.com/story/money/lottery/2025/12/27/powerball-winning-numbers-saturday-december-27-2025/87928977007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/27/USAT/87929360007-getty-images-2252794571.jpg",
+      "publishedAt": "2025-12-28T04:06:00Z",
+      "content": null
+    }
+  ]
+}
